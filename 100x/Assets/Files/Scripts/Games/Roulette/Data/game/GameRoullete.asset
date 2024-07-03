@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef3c2c1291e1992409e922ee5d0414fe, type: 3}
+  m_Name: GameRoullete
+  m_EditorClassIdentifier: 
+  sphere: {fileID: 1563967196799418755, guid: aa0b78b09b63ba9468b43937953f00e7, type: 3}
+  defaultSpeed: 30
+  currentSpeed: 30
